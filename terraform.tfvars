@@ -10,5 +10,9 @@ resource_groups = {
   wide_rg3 = {
     name = "brian"
     location = eastus
+  },
+   wide_rg4 = {
+    name = "floki_rg"
+    location = eastus
   }
 }
